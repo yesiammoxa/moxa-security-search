@@ -1,0 +1,12 @@
+if the tool dont work use python3 setup.py
+
+but how can i use it? 
+
+use : MSS.py example.com
+
+Use Linux for better and easier support
+
+Any problem? Contact moxa!
+yesiammoxa@proton.me
+          
+          :)
